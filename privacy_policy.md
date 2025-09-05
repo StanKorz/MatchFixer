@@ -55,4 +55,5 @@ U kunt deze rechten uitoefenen door contact met ons op te nemen via korzeliussta
 Voor vragen over deze privacyverklaring of over de verwerking van uw gegevens kunt u contact opnemen met:
 
 Stan Korzelius - Ontwikkelaar MatchFixer.nl
+
 E-mail: korzeliusstan@gmail.com
